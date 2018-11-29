@@ -1,0 +1,8 @@
+diff a/gitPractice/Classes.pde b/gitPractice/Classes.pde	(rejected hunks)
+@@ -1,6 +1,5 @@
+ class ThisClass {
+   
+-  
+   void otherThings() {
+     
+   }

@@ -1,7 +1,4 @@
 class ThisClass {
   
-  void otherThings() {
-    
-  }
   
 }

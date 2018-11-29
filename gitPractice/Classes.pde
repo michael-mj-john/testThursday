@@ -1,4 +1,10 @@
 class ThisClass {
   
+  void badness() {
+    
+  }
+  
+  
+  
   
 }
